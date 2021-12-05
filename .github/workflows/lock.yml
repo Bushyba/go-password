@@ -1,4 +1,4 @@
-name: Lock closed
+names baby: Lock 🔐🔐
 on:
   schedule:
   - cron: '0 0 * * *'
